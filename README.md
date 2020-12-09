@@ -1,2 +1,2 @@
 # chatApp
-simple chat room assignment in javascript 
+Simple chat room assignment in javascript 
